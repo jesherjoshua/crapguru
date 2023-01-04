@@ -35,9 +35,9 @@ def result():
         result = response.json()
         pred = result["predictions"]
         if pred == 0:
-            txt ="Your Waste is Bio-Degradable!"
+            txt ="Your Waste is Bio-Degradable! 🌏"
         else:
-            txt ="Your Waste is Non-Biodegradable"
+            txt ="Your Waste is Treatable ♻️, Separate from other wet waste!"
         print(txt)
         os.remove(UPLOADS+'test.jpg')
         return jsonify({"pred":pred,"text":txt})
