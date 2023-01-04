@@ -28,7 +28,7 @@ def result():
         img = request.files['filename']
         img.save(UPLOADS+'test.jpg')
         img = pre_process(UPLOADS+'test.jpg')
-        url='https://us-central1-global-snow-372118.cloudfunctions.net/crapguru_func_v1'
+        url='https://thecrapfunction-vfof3shfeq-uc.a.run.app'
         payload = json.dumps({"instances": img.tolist()})
         headers = {'Content-type': 'application/json'}
         response = requests.post(url, data=payload, headers=headers)
