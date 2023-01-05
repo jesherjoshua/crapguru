@@ -11,7 +11,7 @@ Waste segregation is crucial to prevent health problems that can result from imp
 
 **Crap Guru** attempts to solve this problem by attacking it at its source. It aims to bring waste-segregation to every household via the internet, raise public awareness, and increase the threshold of waste that is treated.
 
- **Crap Guru** , is dedicated to addressing two of the UN's Sustainable Development Goals: **Goal 12 (Responsible Consumption and Production)** and  **Goal 13 (Climate Action) ** . Through our platform, we aim to create awareness and educate the masses about the importance of responsible consumption and production, as well as the urgent need for action on climate change.
+ **Crap Guru** , is dedicated to addressing two of the UN's Sustainable Development Goals: **Goal 12 (Responsible Consumption and Production)** and  **Goal 13 (Climate Action)** . Through our platform, we aim to create awareness and educate the masses about the importance of responsible consumption and production, as well as the urgent need for action on climate change.
 
 Our use of **Machine Learning** to assist in the separation of various waste types is one distinctive feature of our project. We can accurately categorise and segregate different forms of waste by training our algorithms on big data sets of waste samples, making it simpler for people and communities to recycle and dispose of their waste responsibly.
 
