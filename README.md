@@ -20,3 +20,13 @@ This procedure not only reduces the quantity of waste that is dumped in landfill
 ## Fork, Build and Run
 
 For complete guidelines on replication of **Crap Guru** refer to the *documentation* directory in this repository
+
+## Gallery
+
+### Desktop
+
+<img width="1432" alt="Screenshot 2023-01-07 at 3 43 18 PM" src="https://user-images.githubusercontent.com/87414375/211145342-c203ba1b-cfca-4210-8e40-50f99b066c4c.png">
+<img width="1440" alt="Screenshot 2023-01-07 at 3 41 00 PM" src="https://user-images.githubusercontent.com/87414375/211145351-e12c99a6-3de4-45d3-8d55-1012abd75fb2.png">
+
+### Mobile
+
