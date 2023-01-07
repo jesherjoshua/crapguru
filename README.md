@@ -30,3 +30,5 @@ For complete guidelines on replication of **Crap Guru** refer to the *documentat
 
 ### Mobile
 
+<img width="500" alt="Screenshot 2023-01-07 at 3 41 00 PM" src="https://user-images.githubusercontent.com/87414375/211145457-6b8cfad4-2602-4556-a6e6-ac019bcbe894.PNG">
+
