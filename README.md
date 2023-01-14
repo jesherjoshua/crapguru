@@ -1,4 +1,4 @@
-# [Crap Guru](https://crapguru-vfof3shfeq-uc.a.run.app/)
+# [Crap Guru](https://crapguru101-vgfisgq57q-uc.a.run.app)
 
 
 
