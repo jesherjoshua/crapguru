@@ -5,6 +5,15 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jesherjoshua/crapguru?logo=github&style=for-the-badge)](https://github.com/jesherjoshua/crapguru)
 [![Languages](https://img.shields.io/github/languages/count/jesherjoshua/crapguru?style=for-the-badge)](https://github.com/jesherjoshua/crapguru)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jesherjoshua/crapguru?style=for-the-badge&logo=git)](https://github.com/jesherjoshua/crapguru)
+<h2>Built With</h2>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&log)
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  	![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 </div>
 
 ## The Problem
