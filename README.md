@@ -1,6 +1,11 @@
-# [Crap Guru](https://crapguru101-vgfisgq57q-uc.a.run.app)
-
-
+<h1 align=center><a href='https://crapguru101-vgfisgq57q-uc.a.run.app'>Crap Guru</a></h1>
+<p align=center>your personal waste-segregating assistant</p>
+<div align='center'>
+  
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jesherjoshua/crapguru?logo=github&style=for-the-badge)](https://github.com/jesherjoshua/crapguru)
+[![Languages](https://img.shields.io/github/languages/count/jesherjoshua/crapguru?style=for-the-badge)](https://github.com/jesherjoshua/crapguru)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jesherjoshua/crapguru?style=for-the-badge&logo=git)](https://github.com/jesherjoshua/crapguru)
+</div>
 
 ## The Problem
 
