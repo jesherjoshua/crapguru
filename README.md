@@ -18,6 +18,13 @@ Our use of **Machine Learning** to assist in the separation of various waste typ
 
 This procedure not only reduces the quantity of waste that is dumped in landfills, but it also makes it simpler to recycle and reuse items, conserving resources and lowering our environmental impact. **Crap Guru** is utilising cutting-edge technology to build a more sustainable future for everyone.
 
+## Solution Flow Map
+The following map aims to provide a pictorial representation of a the **workflow** of **Crap Guru**.
+
+![flow](https://user-images.githubusercontent.com/87414375/213872978-ebb1cd99-adba-483a-ad03-0065c7245d24.jpeg)
+
+
+
 ## Fork, Build and Run
 
 For complete guidelines on replication of **Crap Guru** refer to the *documentation* directory in this repository
