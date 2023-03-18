@@ -28,7 +28,7 @@ def result():
         img = request.files['filename']
         img.save(UPLOADS+'test.jpg')
         img = pre_process(UPLOADS+'test.jpg')
-        url='https://thecrapfunction-vfof3shfeq-uc.a.run.app'
+        url='https://us-central1-augmented-axe-380213.cloudfunctions.net/dustbinex'
         payload = json.dumps({"instances": img.tolist()})
         headers = {'Content-type': 'application/json'}
         response = requests.post(url, data=payload, headers=headers)
